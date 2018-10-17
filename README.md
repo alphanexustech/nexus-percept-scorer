@@ -8,3 +8,6 @@ With `pipenv` dependencies are installed in a virtualized way:
   - Second, use `pipenv install` to install dependencies
 
 Alternatively, install dependencies to the system: `pipenv install --system`
+
+# License
+MIT
